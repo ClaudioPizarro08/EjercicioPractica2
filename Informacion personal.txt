@@ -12,3 +12,4 @@ Deporte favorito: Futbol, basquet, automovilismo
 celulares: samsung, iphone, xiaomi
 Estudio: ingenieria, informatica, deporte
 Marca de autos: Fiat, Chevrolet, Ford
+Relojes: casio, rolex, patek
