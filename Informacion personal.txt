@@ -8,3 +8,8 @@ Colores: azul, amarillo, rojo
 Lugares: Paysandú, guichón, paysandú
 Equipo favorito: Nacional, peñarol, peñarol
 Paises: Uruguay
+Deporte favorito: Futbol, basquet, automovilismo
+celulares: samsung, iphone, xiaomi
+Estudio: ingenieria, informatica, deporte
+Marca de autos: Fiat, Chevrolet, Ford
+Relojes: casio, rolex, patek
