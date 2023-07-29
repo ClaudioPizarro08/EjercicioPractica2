@@ -5,3 +5,4 @@ Cumpleaños: enero, junio, marzo
 Mascotas: perro, gato, loro
 Hobby: Futbol, entrenar y videojuegos
 Colores: azul, amarillo, rojo
+Lugares: Paysandú, guichón, paysandú
