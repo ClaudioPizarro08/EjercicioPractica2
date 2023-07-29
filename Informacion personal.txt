@@ -1,2 +1,3 @@
 Nombres: Claudio, Jean, André
 Apellidos: Pizarro, Rodriguez, Chéchile
+Edades: 23, 26, 18
