@@ -4,3 +4,4 @@ Edades: 23, 26, 18
 Cumpleaños: enero, junio, marzo
 Mascotas: perro, gato, loro
 Hobby: Futbol, entrenar y videojuegos
+Colores: azul, amarillo, rojo
