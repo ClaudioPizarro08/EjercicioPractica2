@@ -2,3 +2,4 @@ Nombres: Claudio, Jean, André
 Apellidos: Pizarro, Rodriguez, Chéchile
 Edades: 23, 26, 18
 Cumpleaños: enero, junio, marzo
+Mascotas: perro, gato, loro
