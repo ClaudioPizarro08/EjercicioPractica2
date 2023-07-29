@@ -13,7 +13,7 @@ celulares: samsung, iphone, xiaomi
 Estudio: ingenieria, informatica, deporte
 Marca de autos: Fiat, Chevrolet, Ford
 Relojes: casio, rolex, patek
-1
+1as
 a
 !
 ww
